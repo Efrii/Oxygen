@@ -1,6 +1,12 @@
 #EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/oxygen.png" group-title="OXYGEN", OXYGEN.ID
 http://103.130.186.138:8800/oxygenplay/oxygentv/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN", HBO
+http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN", FOX MOVIES
+http://103.130.186.138:8800/oxygenplay/foxmovies/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/917593205d1b9bef8459.png" group-title="OXYGEN", NET TV
 http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
 
